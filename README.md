@@ -11,10 +11,11 @@
 
 <br><br><br>
 
-## Array 
+## Array
 |  #  | Title | Ref Solution | Tag | Solution |
 | --- | ----- | ------------ | --- | -------- |
-|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Link] | _O(1)_ |
+|624| [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) | [Link] | _O(1)_ |Done|
+
 
 
 
