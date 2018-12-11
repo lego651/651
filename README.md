@@ -1,6 +1,6 @@
 <!---Logo--->
 <h1 align="center">
-      <br><a href="http://yuzhoujr.com"><img src="http://yuzhoujr.com/legacy/image/logo.jpg" alt="yuzhoujr" width="200"></a>
+      <br><img src="https://i.ibb.co/gyX12Ds/central.png" alt="651" width="200">
 </h1>
 
 <!---Mentra--->
