@@ -3,13 +3,8 @@
       <br><img src="https://i.ibb.co/gyX12Ds/central.png" alt="651" width="200">
 </h1>
 
-<!---Mentra--->
-公瑾目前正在刷题，每天的计划可以点 [这里](https://github.com/yuzhoujr/leetcode/projects/1)，按照Tag过一遍常见算法，然后我会把本页的Markdown重新改版，从各个知识点做整合，然后录制相对应的YouTube视频。
-
-
 <!---svg--->
 <p align="center">
-  <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/leetcode/backers/badge.svg" /></a> <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/leetcode/sponsors/badge.svg" /></a> <img src="https://img.shields.io/badge/language-Python-yellow.svg?style=flat-square">
   <img src="https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square">
   <img src="https://img.shields.io/badge/progress-1%20%2F%20N-ff69b4.svg?style=flat-square">
 </p>
